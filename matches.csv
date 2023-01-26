@@ -1,0 +1,746 @@
+team1,team2,toss-winner,toss_decision,result,winner,win-by-runs,win-by-wickets,city
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,35,0,Hyderabad
+Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,7,Pune
+Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,10,Rajkot
+Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Indore
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,15,0,Bangalore
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,9,Hyderabad
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,Mumbai
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,0,8,Indore
+Delhi Daredevils,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Delhi Daredevils,97,0,Pune
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,Mumbai
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,Kolkata
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,Bangalore
+Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,7,Rajkot
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,17,0,Kolkata
+Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Delhi Daredevils,51,0,Delhi
+Gujarat Lions,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,Mumbai
+Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rising Pune Supergiant,27,0,Bangalore
+Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,0,4,Delhi
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,5,0,Hyderabad
+Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Royal Challengers Bangalore,21,0,Rajkot
+Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,15,0,Hyderabad
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,Indore
+Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,4,Kolkata
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,14,0,Mumbai
+Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,6,Pune
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Kings XI Punjab,26,0,Rajkot
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,82,0,Kolkata
+Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,Rising Pune Supergiant,3,0,Mumbai
+Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Pune
+Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,7,Bangalore
+Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Kolkata
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,26,0,Chandigarh
+Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rising Pune Supergiant,61,0,Pune
+Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,tie,Mumbai Indians,0,0,Rajkot
+Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,10,Chandigarh
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,48,0,Hyderabad
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,Mumbai Indians,0,5,Mumbai
+Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,5,Pune
+Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,Delhi
+Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,4,Kolkata
+Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,Delhi
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,19,0,Bangalore
+Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Rising Pune Supergiant,12,0,Hyderabad
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,146,0,Delhi
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Bangalore
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,6,Chandigarh
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Sunrisers Hyderabad,0,7,Hyderabad
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,14,0,Chandigarh
+Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,2,Kanpur
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,7,0,Mumbai
+Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,normal,Delhi Daredevils,7,0,Delhi
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,8,Kanpur
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,9,0,Kolkata
+Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant,0,9,Pune
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,10,0,Delhi
+Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,Rising Pune Supergiant,20,0,Mumbai
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Bangalore
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,Bangalore
+Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,normal,Mumbai Indians,1,0,Hyderabad
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,140,0,Bangalore
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,33,0,Chandigarh
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Delhi Daredevils,0,9,Delhi
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,5,Mumbai
+Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,normal,Kolkata Knight Riders,0,5,Kolkata
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals,0,6,Jaipur
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,0,9,Hyderabad
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings,6,0,Chennai
+Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,Hyderabad
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,66,0,Chandigarh
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,Bangalore
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,0,9,Chennai
+Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,10,Mumbai
+Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,0,4,Chandigarh
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,13,0,Bangalore
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,0,7,Kolkata
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Daredevils,10,0,Delhi
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,Hyderabad
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,45,0,Jaipur
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,0,8,Chennai
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore,0,5,Hyderabad
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kings XI Punjab,9,0,Chandigarh
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,29,0,Mumbai
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,0,8,Jaipur
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Bangalore
+Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,7,Chennai
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,7,Mumbai
+Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,Delhi
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,5,0,Kolkata
+Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,Jaipur
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,Bangalore
+Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Chennai Super Kings,18,0,Chennai
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,23,0,Hyderabad
+Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,Jaipur
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,0,9,Chandigarh
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,23,0,Kolkata
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,Mumbai
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,41,0,Chandigarh
+Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Delhi Daredevils,12,0,Delhi
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,Mumbai
+Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,6,0,Delhi
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rajasthan Royals,65,0,Jaipur
+Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,25,0,Hyderabad
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,3,0,Kolkata
+Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,5,Bangalore
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,Kolkata
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,1,0,Mumbai
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,14,0,Chennai
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Chandigarh
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,5,Delhi
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals,10,0,Chennai
+Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,Royal Challengers Bangalore,3,0,Bangalore
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,3,Kolkata
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,5,Jaipur
+Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,Chennai Super Kings,0,7,Hyderabad
+Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,105,0,Mumbai
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings,0,9,Mumbai
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,Mumbai
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,19,0,Cape Town
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,75,0,Cape Town
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,10,Cape Town
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Deccan Chargers,0,8,Cape Town
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,92,0,Port Elizabeth
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,11,0,Durban
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Deccan Chargers,24,0,Cape Town
+Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,Delhi Daredevils,9,0,Durban
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,tie,Rajasthan Royals,0,0,Cape Town
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,0,7,Durban
+Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,12,0,Durban
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,Delhi Daredevils,0,6,Port Elizabeth
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Kings XI Punjab,27,0,Cape Town
+Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,Durban
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,92,0,Port Elizabeth
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,0,5,Centurion
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Royal Challengers Bangalore,0,5,Durban
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Kings XI Punjab,3,0,Durban
+Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,Centurion
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,38,0,Centurion
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,9,0,East London
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,8,0,Durban
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,0,3,Port Elizabeth
+Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,18,0,Johannesburg
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab,0,6,Port Elizabeth
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,9,Johannesburg
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,78,0,East London
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,78,0,Durban
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,0,9,Durban
+Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,19,0,Centurion
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,Centurion
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,12,0,Centurion
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,0,7,East London
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,3,Kimberley
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,7,Kimberley
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,16,0,Port Elizabeth
+Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,Johannesburg
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Deccan Chargers,53,0,Kimberley
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,Centurion
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,0,8,Centurion
+Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Delhi Daredevils,12,0,Durban
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore,0,2,Durban
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals,2,0,Durban
+Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Bloemfontein
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,0,7,Port Elizabeth
+Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,Johannesburg
+Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Kings XI Punjab,1,0,Johannesburg
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,14,0,Bloemfontein
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,0,7,Centurion
+Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Royal Challengers Bangalore,0,7,Johannesburg
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,Durban
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,24,0,Durban
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,4,Centurion
+Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,12,0,Centurion
+Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,Centurion
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,Johannesburg
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,6,0,Johannesburg
+Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Kolkata Knight Riders,11,0,Mumbai
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians,4,0,Mumbai
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,5,Chandigarh
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Kolkata
+Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,Deccan Chargers,31,0,Chennai
+Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,Ahmedabad
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore,0,8,Bangalore
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,55,0,Kolkata
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,98,0,Delhi
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,10,Bangalore
+Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,Chennai Super Kings,0,5,Delhi
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Deccan Chargers,6,0,Cuttack
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,34,0,Ahmedabad
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,7,Mumbai
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,10,0,Cuttack
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,tie,Kings XI Punjab,0,0,Chennai
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,0,7,Mumbai
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,36,0,Bangalore
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,31,0,Chandigarh
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,Mumbai
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,0,8,Ahmedabad
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,39,0,Chandigarh
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Daredevils,17,0,Bangalore
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals,17,0,Ahmedabad
+Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,41,0,Mumbai
+Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Delhi Daredevils,40,0,Delhi
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,Mumbai
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings,0,5,Chennai
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,67,0,Delhi
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,24,0,Kolkata
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore,0,6,Chandigarh
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings,23,0,Chennai
+Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,normal,Mumbai Indians,63,0,Mumbai
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab,0,8,Kolkata
+Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Delhi Daredevils,37,0,Delhi
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,Rajasthan Royals,2,0,Nagpur
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,24,0,Chennai
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals,0,9,Jaipur
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,14,0,Kolkata
+Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,7,Bangalore
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,0,6,Chandigarh
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Deccan Chargers,0,6,Nagpur
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,Bangalore
+Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,0,7,Delhi
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,37,0,Jaipur
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,13,0,Nagpur
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Mumbai Indians,39,0,Mumbai
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,0,9,Chennai
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Royal Challengers Bangalore,0,5,Jaipur
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,0,6,Chennai
+Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,5,Dharamsala
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,57,0,Bangalore
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,0,8,Kolkata
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,Dharamsala
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,11,0,Delhi
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Kolkata Knight Riders,0,9,Kolkata
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,35,0,Mumbai
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,38,0,Mumbai
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore,0,9,Mumbai
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,22,0,Mumbai
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,2,0,Chennai
+Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,Hyderabad
+Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore,0,6,Kochi
+Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians,0,8,Delhi
+Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors,0,7,Mumbai
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,9,0,Kolkata
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,0,6,Jaipur
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,Bangalore
+Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Chandigarh
+Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,bat,normal,Pune Warriors,0,4,Mumbai
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,33,0,Hyderabad
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,9,Jaipur
+Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,8,Mumbai
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,21,0,Chennai
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,8,Hyderabad
+Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,3,Mumbai
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,Kolkata
+Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,7,Kochi
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,16,0,Delhi
+Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians,0,7,Mumbai
+Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala,6,0,Kolkata
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,48,0,Chandigarh
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,8,0,Mumbai
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,Kolkata
+Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Delhi Daredevils,29,0,Delhi
+Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,37,0,Hyderabad
+Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,Jaipur
+Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings,25,0,Chennai
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,3,Delhi
+Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Chennai Super Kings,0,8,Mumbai
+Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Deccan Chargers,55,0,Kochi
+Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Kolkata Knight Riders,17,0,Delhi
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,Jaipur
+Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,26,0,Bangalore
+Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,bat,normal,Delhi Daredevils,38,0,Kochi
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,Kolkata
+Pune Warriors,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,Jaipur
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,19,0,Chennai
+Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,23,0,Mumbai
+Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,7,Delhi
+Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Kolkata Knight Riders,20,0,Hyderabad
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,8,Chennai
+Mumbai Indians,Pune Warriors,Pune Warriors,field,normal,Mumbai Indians,21,0,Mumbai
+Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala,17,0,Kochi
+Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,4,Hyderabad
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,85,0,Bangalore
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,10,0,Kolkata
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,32,0,Mumbai
+Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore,0,9,Bangalore
+Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors,0,5,Chandigarh
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,63,0,Jaipur
+Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Pune Warriors,0,6,Hyderabad
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,76,0,Chandigarh
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,Jaipur
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,18,0,Chennai
+Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Indore
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,Bangalore
+Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,10,0,Mumbai
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,29,0,Dharamsala
+Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,0,8,Indore
+Pune Warriors,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,0,6,Mumbai
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Kings XI Punjab,111,0,Dharamsala
+Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,normal,Chennai Super Kings,11,0,Chennai
+Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Mumbai
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,0,10,Mumbai
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Deccan Chargers,82,0,Dharamsala
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,Bangalore
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,Kolkata
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,Mumbai
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,4,Mumbai
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,43,0,Chennai
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,58,0,Chennai
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,Chennai
+Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,Kolkata
+Pune Warriors,Mumbai Indians,Mumbai Indians,field,normal,Pune Warriors,28,0,Mumbai
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,31,0,Jaipur
+Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,20,0,Bangalore
+Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Chennai Super Kings,74,0,Visakhapatnam
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,22,0,Jaipur
+Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Pune Warriors,22,0,Pune
+Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Mumbai Indians,0,5,Visakhapatnam
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,42,0,Bangalore
+Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,Delhi
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,27,0,Mumbai
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings,0,5,Chennai
+Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,Chandigarh
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,0,5,Kolkata
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,0,5,Delhi
+Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Pune Warriors,0,7,Pune
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,2,0,Kolkata
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Rajasthan Royals,59,0,Bangalore
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,Mumbai
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,0,5,Jaipur
+Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,normal,Royal Challengers Bangalore,0,6,Bangalore
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,8,Chandigarh
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,0,9,Hyderabad
+Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings,13,0,Chennai
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,5,Chandigarh
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,7,Chennai
+Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,Pune Warriors,20,0,Delhi
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,0,6,Mumbai
+Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,Cuttack
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Royal Challengers Bangalore,46,0,Jaipur
+Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,Delhi Daredevils,0,8,Pune
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,0,4,Chandigarh
+Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Deccan Chargers,18,0,Pune
+Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,37,0,Delhi
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Kings XI Punjab,7,0,Chennai
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,47,0,Kolkata
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,1,0,Delhi
+Deccan Chargers,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,Mumbai
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,0,5,Chennai
+Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Deccan Chargers,13,0,Cuttack
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Delhi Daredevils,0,6,Jaipur
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,4,Bangalore
+Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians,1,0,Pune
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,10,0,Chennai
+Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,7,0,Kolkata
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,Rajasthan Royals,43,0,Chandigarh
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,2,Mumbai
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,5,Bangalore
+Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,0,6,Delhi
+Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals,0,7,Pune
+Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Kings XI Punjab,25,0,Hyderabad
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,Mumbai
+Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,Jaipur
+Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,35,0,Pune
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,27,0,Kolkata
+Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,9,Chennai
+Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Rajasthan Royals,45,0,Jaipur
+Deccan Chargers,Kings XI Punjab,Deccan Chargers,bat,normal,Kings XI Punjab,0,4,Chandigarh
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,Bangalore
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,Kolkata
+Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,normal,Delhi Daredevils,0,5,Delhi
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Kolkata Knight Riders,32,0,Mumbai
+Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Dharamsala
+Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,21,0,Delhi
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,Deccan Chargers,0,5,Hyderabad
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,Dharamsala
+Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,34,0,Pune
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,9,0,Hyderabad
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians,0,10,Jaipur
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,18,0,Pune
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings,38,0,Bangalore
+Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,86,0,Chennai
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,0,5,Chennai
+Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Kolkata
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,2,0,Bangalore
+Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad,22,0,Hyderabad
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Rajasthan Royals,5,0,Delhi
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,9,0,Chennai
+Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Kings XI Punjab,0,8,Pune
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,Sunrisers Hyderabad,0,0,Hyderabad
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,19,0,Jaipur
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Mumbai Indians,44,0,Mumbai
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,10,Chandigarh
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,Bangalore
+Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Pune Warriors,0,7,Pune
+Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,3,Delhi
+Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians,41,0,Mumbai
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,Chennai
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,48,0,Kolkata
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,Jaipur
+Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Pune Warriors,24,0,Chennai
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,4,0,Chandigarh
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,Royal Challengers Bangalore,0,0,Bangalore
+Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad,11,0,Pune
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals,87,0,Jaipur
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,86,0,Delhi
+Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad,0,5,Hyderabad
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,0,4,Kolkata
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,Bangalore
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,0,9,Delhi
+Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,Chandigarh
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,5,Chennai
+Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,130,0,Bangalore
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,7,0,Dharamsala
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,0,5,Kolkata
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings,0,5,Chennai
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,6,Kolkata
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals,0,8,Jaipur
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,58,0,Mumbai
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings,14,0,Chennai
+Delhi Daredevils,Pune Warriors,Pune Warriors,field,normal,Delhi Daredevils,15,0,Raipur
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,4,Jaipur
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians,4,0,Mumbai
+Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Chennai Super Kings,37,0,Pune
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Sunrisers Hyderabad,0,7,Hyderabad
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,0,7,Raipur
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,15,0,Chennai
+Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,17,0,Pune
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,0,8,Kolkata
+Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,6,Hyderabad
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,Bangalore
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,60,0,Mumbai
+Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals,0,5,Jaipur
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore,0,7,Bangalore
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,0,9,Jaipur
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,65,0,Mumbai
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Chennai Super Kings,77,0,Hyderabad
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,8,Chandigarh
+Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,46,0,Pune
+Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,4,0,Delhi
+Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians,0,5,Pune
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,30,0,Chandigarh
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,Ranchi
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,5,Jaipur
+Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,5,Delhi
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,0,7,Mumbai
+Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Pune Warriors,7,0,Ranchi
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,33,0,Chennai
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,14,0,Mumbai
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Chandigarh
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,23,0,Hyderabad
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,50,0,Dharamsala
+Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,Pune Warriors,38,0,Pune
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,24,0,Bangalore
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Sunrisers Hyderabad,0,5,Hyderabad
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,48,0,Delhi
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals,0,4,Delhi
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians,0,4,Kolkata
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,23,0,Kolkata
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,41,0,Abu Dhabi
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,Sharjah
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Kings XI Punjab,0,6,Abu Dhabi
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,4,Abu Dhabi
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,Sharjah
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,93,0,Abu Dhabi
+Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kings XI Punjab,72,0,Sharjah
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,2,0,Sharjah
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,Abu Dhabi
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,23,0,Abu Dhabi
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,0,6,Sharjah
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings,0,5,Sharjah
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,tie,Rajasthan Royals,0,0,Abu Dhabi
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,34,0,Ranchi
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,0,5,Mumbai
+Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,Delhi
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,Bangalore
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,10,0,Ahmedabad
+Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,Delhi
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,19,0,Mumbai
+Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,0,8,Delhi
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,44,0,Cuttack
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad,32,0,Ahmedabad
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,32,0,Bangalore
+Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,8,Delhi
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,Mumbai
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,9,Cuttack
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Rajasthan Royals,0,5,Bangalore
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,0,7,Hyderabad
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,0,5,Ranchi
+Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,16,0,Bangalore
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Hyderabad
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Cuttack
+Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,62,0,Ahmedabad
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore,0,5,Ranchi
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,0,7,Hyderabad
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians,25,0,Ahmedabad
+Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,4,Delhi
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,Sunrisers Hyderabad,0,7,Hyderabad
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,Kolkata
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,7,Chandigarh
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,30,0,Kolkata
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,6,Ranchi
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,15,0,Mumbai
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,16,0,Chandigarh
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,Bangalore
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,Kolkata
+Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,7,Chandigarh
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,Mumbai
+Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,28,0,Kolkata
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,7,Mumbai
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,24,0,Mumbai
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,3,Bangalore
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Kolkata
+Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,1,0,Chennai
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,26,0,Pune
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings,45,0,Chennai
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,3,Kolkata
+Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,Delhi
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,18,0,Mumbai
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,8,Bangalore
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,0,7,Ahmedabad
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Kolkata
+Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,normal,Delhi Daredevils,0,5,Pune
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,6,Visakhapatnam
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,0,6,Mumbai
+Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Delhi Daredevils,4,0,Visakhapatnam
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,Pune
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,0,8,Ahmedabad
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,18,0,Bangalore
+Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Delhi
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,tie,Kings XI Punjab,0,0,Ahmedabad
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,16,0,Visakhapatnam
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Chennai Super Kings,27,0,Bangalore
+Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,37,0,Delhi
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,Ahmedabad
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Mumbai Indians,20,0,Mumbai
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,97,0,Chennai
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,10,Delhi
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,20,0,Chandigarh
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,13,0,Kolkata
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings,2,0,Chennai
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,9,Delhi
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,8,0,Mumbai
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,Bangalore
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Sunrisers Hyderabad,22,0,Hyderabad
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians,23,0,Chandigarh
+Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,14,0,Mumbai
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,24,0,Chennai
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,35,0,Kolkata
+Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians,0,5,Mumbai
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,138,0,Bangalore
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad,7,0,Mumbai
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Mumbai Indians,0,6,Chennai
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,0,1,Kolkata
+Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,6,0,Raipur
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,39,0,Mumbai
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings,12,0,Chennai
+Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,5,0,Hyderabad
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,0,6,Raipur
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,22,0,Chandigarh
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,5,0,Mumbai
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore,0,6,Hyderabad
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings,0,7,Chandigarh
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,9,0,Mumbai
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,0,9,Hyderabad
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,25,0,Mumbai
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,71,0,Pune
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,3,Ranchi
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,41,0,Kolkata
+Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,normal,Rising Pune Supergiants,0,9,Mumbai
+Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,9,Kolkata
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,5,Chandigarh
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Royal Challengers Bangalore,45,0,Bangalore
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,Kolkata
+Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,bat,normal,Gujarat Lions,0,7,Rajkot
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,Delhi
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,0,8,Hyderabad
+Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,3,Mumbai
+Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,bat,normal,Kings XI Punjab,0,6,Chandigarh
+Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,Bangalore
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,7,Hyderabad
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Chandigarh
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,Mumbai
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,10,Rajkot
+Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Royal Challengers Bangalore,13,0,Pune
+Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,10,0,Delhi
+Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,Hyderabad
+Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,bat,normal,Gujarat Lions,0,6,Rajkot
+Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,2,Pune
+Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,25,0,Chandigarh
+Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,34,0,Hyderabad
+Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Gujarat Lions,1,0,Delhi
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,Mumbai
+Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,3,Pune
+Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Delhi Daredevils,27,0,Delhi
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,15,0,Hyderabad
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Kings XI Punjab,23,0,Rajkot
+Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,Pune
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,Bangalore
+Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,8,Rajkot
+Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,7,0,Kolkata
+Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,0,7,Delhi
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,Hyderabad
+Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,7,Bangalore
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,9,0,Chandigarh
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad,85,0,Visakhapatnam
+Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,5,Kolkata
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,1,0,Chandigarh
+Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,4,0,Visakhapatnam
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,Bangalore
+Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,Hyderabad
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,0,7,Visakhapatnam
+Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Royal Challengers Bangalore,144,0,Bangalore
+Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,bat,normal,Kolkata Knight Riders,0,8,Kolkata
+Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad,0,7,Chandigarh
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,80,0,Visakhapatnam
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,9,Kolkata
+Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,19,0,Visakhapatnam
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,82,0,Bangalore
+Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,6,Kanpur
+Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,6,Raipur
+Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,bat,normal,Rising Pune Supergiants,0,4,Visakhapatnam
+Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,0,6,Kanpur
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,22,0,Kolkata
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,Raipur
+Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,Bangalore
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,22,0,Delhi
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,4,Delhi
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,8,0,Bangalore
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,1,Mumbai
+Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Mohali
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,4,Kolkata
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,9,Hyderabad
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,Chennai
+Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,10,0,Jaipur
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,1,Hyderabad
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,Bengaluru
+Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,0,7,Mumbai
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,Kolkata
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rajasthan Royals,19,0,Bengaluru
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,4,0,Mohali
+Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Kolkata Knight Riders,71,0,Kolkata
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,46,0,Mumbai
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Jaipur
+Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Kings XI Punjab,15,0,Mohali
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,64,0,Pune
+Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,9,Kolkata
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,6,Bengaluru
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Chennai Super Kings,4,0,Hyderabad
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,0,3,Jaipur
+Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,4,0,Delhi
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad,31,0,Mumbai
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,Bengaluru
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,13,0,Hyderabad
+Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Delhi Daredevils,55,0,Delhi
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,8,Pune
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,11,0,Jaipur
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Bengaluru
+Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,13,0,Pune
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,14,0,Bengaluru
+Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Delhi Daredevils,4,0,Delhi
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Kolkata
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,6,Indore
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,Pune
+Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,7,Hyderabad
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,13,0,Mumbai
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Indore
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,5,0,Hyderabad
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,Rajasthan Royals,15,0,Jaipur
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,102,0,Kolkata
+Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,0,9,Delhi
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,0,4,Jaipur
+Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,31,0,Indore
+Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,5,Delhi
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,Pune
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,Mumbai
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,10,Indore
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Kolkata
+Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,3,0,Mumbai
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Royal Challengers Bangalore,14,0,Bengaluru
+Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Delhi Daredevils,34,0,Delhi
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Rajasthan Royals,30,0,Jaipur
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,0,5,Hyderabad
+Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Delhi Daredevils,11,0,Delhi
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,Pune
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,2,Mumbai
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Kolkata Knight Riders,25,0,Kolkata
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,14,0,Kolkata
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,8,Mumbai
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,7,Chennai
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,6,Kolkata
+Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,Delhi Capitals,37,0,Mumbai
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,14,0,Jaipur
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,Chennai Super Kings,0,6,Delhi
+Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,28,0,Kolkata
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,6,0,Bengaluru
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,Sunrisers Hyderabad,0,5,Hyderabad
+Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,8,Mohali
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,tie,Delhi Capitals,0,0,Delhi
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,118,0,Hyderabad
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,8,0,Chennai
+Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,Kings XI Punjab,14,0,Mohali
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,Jaipur
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,37,0,Mumbai
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,5,Delhi
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,5,Bengaluru
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,22,0,Chennai
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Mumbai Indians,40,0,Hyderabad
+Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,4,Bengaluru
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,8,Jaipur
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Mohali
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,7,Chennai
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,3,Mumbai
+Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,4,Jaipur
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,7,Kolkata
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,4,Mumbai
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,8,Mohali
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,5,Kolkata
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Delhi Capitals,39,0,Hyderabad
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,5,Mumbai
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,12,0,Mohali
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Sunrisers Hyderabad,0,6,Hyderabad
+Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,Mumbai Indians,40,0,Delhi
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Royal Challengers Bangalore,10,0,Kolkata
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,5,Jaipur
+Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,5,Delhi
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,0,9,Hyderabad
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,1,0,Bengaluru
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,6,Jaipur
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,Chennai
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,17,0,Bengaluru
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,3,Kolkata
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,46,0,Chennai
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,Jaipur
+Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,Delhi Capitals,16,0,Delhi
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Kolkata Knight Riders,34,0,Kolkata
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,45,0,Hyderabad
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,Chennai Super Kings,80,0,Chennai
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,Mumbai Indians,0,0,Mumbai
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,7,Mohali
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,Delhi Capitals,0,5,Delhi
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,0,4,Bengaluru
+Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,0,6,Mohali
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,9,Mumbai
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Mumbai Indians,0,6,Chennai
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,Delhi Capitals,0,2,Visakhapatnam
+Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,0,6,Visakhapatnam
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,1,0,Hyderabad
